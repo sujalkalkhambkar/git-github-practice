@@ -1,0 +1,6 @@
+git init
+git staus
+git add test.py
+git rm --cached test.py
+git commit -m "added test file"
+1604  git restore test.py
