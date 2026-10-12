@@ -3,4 +3,7 @@ git staus
 git add test.py
 git rm --cached test.py
 git commit -m "added test file"
-1604  git restore test.py
+git restore test.py
+git remote -v 
+git remote set-url origin
+git push origin master
